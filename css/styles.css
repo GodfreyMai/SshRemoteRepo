@@ -233,9 +233,12 @@ button{
   height: 50px;
   font-size: 18px;
   color: #fff;
-  background-color: purple;
+  background-color: #ff7f00;
   cursor: pointer;
   text-transform: uppercase;
+  border: none;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 button:hover{
   box-shadow: red;
